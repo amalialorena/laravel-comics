@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  border-bottom: 1px solid grey;
+}
+
+nav .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav .logo {
+  height: 60px;
+  margin: 5px;
+  margin-right: 40px;
+}
+
+nav img {
+  height: 100%;
+}
+
+nav .active a {
+  color: blue;
+  border-bottom: 3px solid blue;
+  padding-bottom: 25px;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+nav li a {
+  text-decoration: none;
+  font-size: 0.7em;
+  color: black;
+  font-weight: bold;
+}
+
+nav .search {
+  border-bottom: 1px solid blue;
+  width: 80px;
+  text-align: right;
+}
+
+nav .search span {
+  font-size: 12px;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+}
+

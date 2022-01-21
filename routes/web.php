@@ -11,3 +11,8 @@ Route::get('/', function () {
 Route::get('test', function () {
     return view('pages.test');
 }) -> name('test');
+
+// Route::get('/', function () {
+//     return config('comics');
+// })
+
