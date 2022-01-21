@@ -39,5 +39,7 @@
     <div class="search">
         <span >Search</span>
     </div>
-
 </nav>
+<header id="jumbo-container">
+    <img src="assets/img/jumbotron.jpg" alt="">
+</header>

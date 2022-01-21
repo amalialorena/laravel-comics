@@ -5,12 +5,13 @@
 }
 
 nav {
-  border-bottom: 1px solid grey;
+  width: 80%;
+  margin: auto;
 }
 
 nav .container {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
 }
 
@@ -52,8 +53,95 @@ nav .search span {
   font-size: 12px;
 }
 
-.footer {
+#jumbo-container {
+  height: 400px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  overflow: hidden;
+}
+
+#jumbo-container img {
+  width: 100%;
+}
+
+footer {
   background-color: black;
+}
+
+footer .content {
+  margin: auto;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  height: 350px;
+}
+
+footer .content .logo {
+  width: 50%;
+  overflow: hidden;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+footer .content .logo img {
+  max-width: 100%;
+  margin-top: -70px;
+}
+
+footer .content .links {
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+  padding-top: 50px;
+  color: grey;
+}
+
+footer .content .links ul a {
+  text-decoration: none;
+  font-size: 0.7em;
+  color: grey;
+}
+
+footer .content .links .title {
   color: white;
+  margin: 10px 0;
+  font-weight: bold;
+  font-size: 0.9em;
+  display: block;
+}
+
+footer .social-container {
+  background-color: #242424;
+}
+
+footer .social-container .container {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+}
+
+footer .social-container .container button {
+  border: 1px solid #0c6bfb;
+  margin: 30px;
+  background-color: #242424;
+  color: white;
+  place-self: center;
+  padding: 10px;
+}
+
+footer .social-container .social {
+  display: flex;
+  align-items: center;
+}
+
+footer .social-container .social p {
+  display: inline-block;
+  color: #0c6bfb;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+footer .social-container .social img {
+  margin: 10px;
 }
 
