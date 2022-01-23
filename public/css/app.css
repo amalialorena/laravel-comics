@@ -145,3 +145,90 @@ footer .social-container .social img {
   margin: 10px;
 }
 
+.cards-container {
+  background-color: black;
+}
+
+.cards-container .top {
+  padding-top: 30px;
+}
+
+.cards-container .cards-row {
+  display: flex;
+  justify-content: center;
+}
+
+.cards-container .cards-row .card {
+  width: calc(16.6666666667% - 20px);
+  margin: 20px 10px;
+  width: 154px;
+  height: 230px;
+  margin: 1%;
+}
+
+.cards-container .cards-row .card .img-container {
+  height: 154px;
+  overflow: hidden;
+}
+
+.cards-container .cards-row .card .img-container img {
+  width: 100%;
+}
+
+.cards-container .cards-row .card p {
+  margin-top: 15px;
+  color: white;
+  font-size: 0.7em;
+  font-weight: bold;
+}
+
+.cards-container .cta {
+  text-align: center;
+}
+
+.cards-container .cta button {
+  margin: 0 auto;
+  background-color: #0d69f6;
+  padding: 10px 30px;
+  font-size: 0.7em;
+  color: white;
+  font-weight: bold;
+  border: 0;
+  margin-bottom: 20px;
+}
+
+.shop {
+  background-color: #3069f7;
+  color: white;
+  height: 100px;
+}
+
+.shop .shop-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.shop .shop-container .card {
+  display: flex;
+  align-items: center;
+  margin: 0 10px;
+  height: 50%;
+  width: calc(20% - 20px);
+  max-width: 150px;
+}
+
+.shop .shop-container .card img {
+  width: 20%;
+  min-width: 30px;
+}
+
+.shop .shop-container .card p {
+  display: inline-block;
+  font-size: 0.6em;
+  margin: 0 10px;
+  vertical-align: middle;
+  font-weight: bold;
+}
+

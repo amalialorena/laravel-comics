@@ -3,7 +3,7 @@
     margin:0;
     box-sizing: border-box;
 }
-
+// nav bar
 nav {
     width: 80%;
     margin: auto;
@@ -56,7 +56,7 @@ nav {
 
 }
 
-
+// footer
 footer{
     // background-image: url("assets/img/footer-bg.jpg");
     background-color: black;
@@ -135,3 +135,89 @@ footer{
         }
     }
 }
+
+    // home comics
+
+.cards-container {
+    background-color: black;
+    .top {
+        padding-top: 30px;
+    }    
+    .cards-row {
+        display: flex;
+        justify-content:center;
+        .card {
+            width: calc((100% / 6) - 20px);
+            margin: 20px 10px;
+            width: 154px;
+            height: 230px;
+            margin: 1%;
+            .img-container {
+                height: 154px;
+                overflow: hidden;
+                img {
+                width: 100%;
+                }
+            }
+            p {
+                margin-top: 15px;
+                color: white;
+                font-size: .7em;
+                font-weight: bold;
+            }
+        }
+    }
+    
+    .cta {
+        text-align: center;
+        button {
+            margin: 0 auto;
+            background-color: #0d69f6;
+            padding: 10px 30px;
+            font-size: .7em;
+            color: white;
+            font-weight: bold;
+            border: 0;
+            margin-bottom: 20px;   
+        }
+    }
+
+} 
+
+.shop {
+    background-color: #3069f7;
+    color: white;
+    height: 100px;
+
+    .shop-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+            .card {
+                display: flex;
+                align-items: center;
+                margin: 0 10px;
+                height: 50%;
+                width: calc((100% / 5) - 20px);
+                max-width: 150px;
+                img {
+                    width: 20%;
+                    min-width: 30px;
+                 }
+                p {
+                    display: inline-block;
+                    font-size: .6em;
+                    margin: 0 10px;
+                    vertical-align: middle;
+                    font-weight: bold;
+                }
+            }
+       
+    }
+
+}
+
+
+ 
+
