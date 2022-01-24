@@ -8,81 +8,81 @@
         </div>
     
         <div class="card">
-            <div class="img-container">
+            <a href="{{route('test')}}" class="img-container">
                 <img src="https://lumiere-a.akamaihd.net/v1/images/maractsminf001_cov_2a89b17b.jpeg?region=0%2C0%2C1844%2C2800" alt="">
-            </div>
+            </a>
             <p>Action Comics</p>
         </div>
     
         <div class="card">
-            <div class="img-container">
+            <a href="{{route('test')}}" class="img-container">
                 <img src="https://lumiere-a.akamaihd.net/v1/images/maractsminf001_cov_2a89b17b.jpeg?region=0%2C0%2C1844%2C2800" alt="">
-            </div>
+            </a>
             <p>Action Comics</p>
         </div>
     
         <div class="card">
-            <div class="img-container">
+            <a href="{{route('test')}}" class="img-container">
                 <img src="https://lumiere-a.akamaihd.net/v1/images/maractsminf001_cov_2a89b17b.jpeg?region=0%2C0%2C1844%2C2800" alt="">
-            </div>
+            </a>
             <p>Action Comics</p>
         </div>
     
         <div class="card">
-            <div class="img-container">
+            <a href="{{route('test')}}" class="img-container">
                 <img src="https://lumiere-a.akamaihd.net/v1/images/maractsminf001_cov_2a89b17b.jpeg?region=0%2C0%2C1844%2C2800" alt="">
-            </div>
+            </a>
             <p>Action Comics</p>
         </div>
     
         <div class="card">
-            <div class="img-container">
+            <a href="{{route('test')}}" class="img-container">
                 <img src="https://lumiere-a.akamaihd.net/v1/images/maractsminf001_cov_2a89b17b.jpeg?region=0%2C0%2C1844%2C2800" alt="">
-            </div>
+            </a>
             <p>Action Comics</p>
         </div>
     </div>
     
     <div class="cards-row">
         <div class="card">
-            <div class="img-container">
+            <a href="{{route('test')}}" class="img-container">
                 <img src="https://lumiere-a.akamaihd.net/v1/images/maractsminf001_cov_2a89b17b.jpeg?region=0%2C0%2C1844%2C2800" alt="">
-            </div>
+            </a>
             <p>Action Comics</p>
         </div>
     
         <div class="card">
-            <div class="img-container">
+            <a href="{{route('test')}}" class="img-container">
                 <img src="https://lumiere-a.akamaihd.net/v1/images/maractsminf001_cov_2a89b17b.jpeg?region=0%2C0%2C1844%2C2800" alt="">
-            </div>
+            </a>
             <p>Action Comics</p>
         </div>
     
         <div class="card">
-            <div class="img-container">
+            <a href="{{route('test')}}" class="img-container">
                 <img src="https://lumiere-a.akamaihd.net/v1/images/maractsminf001_cov_2a89b17b.jpeg?region=0%2C0%2C1844%2C2800" alt="">
-            </div>
+            </a>
             <p>Action Comics</p>
         </div>
     
         <div class="card">
-            <div class="img-container">
+            <a href="{{route('test')}}" class="img-container">
                 <img src="https://lumiere-a.akamaihd.net/v1/images/maractsminf001_cov_2a89b17b.jpeg?region=0%2C0%2C1844%2C2800" alt="">
-            </div>
+            </a>
             <p>Action Comics</p>
         </div>
     
         <div class="card">
-            <div class="img-container">
+            <a href="{{route('test')}}" class="img-container">
                 <img src="https://lumiere-a.akamaihd.net/v1/images/maractsminf001_cov_2a89b17b.jpeg?region=0%2C0%2C1844%2C2800" alt="">
-            </div>
+            </a>
             <p>Action Comics</p>
         </div>
     
         <div class="card">
-            <div class="img-container">
+            <a href="{{route('test')}}" class="img-container">
                 <img src="https://lumiere-a.akamaihd.net/v1/images/maractsminf001_cov_2a89b17b.jpeg?region=0%2C0%2C1844%2C2800" alt="">
-            </div>
+            </a>
             <p>Action Comics</p>
         </div>
        
