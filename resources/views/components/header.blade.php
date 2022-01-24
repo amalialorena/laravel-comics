@@ -41,5 +41,5 @@
     </div>
 </nav>
 <header id="jumbo-container">
-    <img src="assets/img/jumbotron.jpg" alt="">
+    <div id="bg-img"></div>
 </header>

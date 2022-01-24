@@ -42,7 +42,8 @@
                 </ul>
             </div>
         </div>
-        <div data-v-40ab164b="" class="logo"><img data-v-40ab164b="" src="assets/img/dc-logo-bg.png" alt=""></div>
+        <div data-v-40ab164b="" class="logo"><img data-v-40ab164b="" src="/storage/assets/img/dc-logo-bg.png" alt=""></div>
+        <div class="dc-logo"></div>
     </section>
     <section data-v-40ab164b="" class="social-container">
         <div data-v-40ab164b="" class="container"><button data-v-40ab164b="">SIGN UP NOW</button>
